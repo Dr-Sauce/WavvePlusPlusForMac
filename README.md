@@ -12,3 +12,9 @@ A shortcut that allows you to watch live TV, specifically made for Mac
 3. Add the shortcut to your Mac.
 
 4. Launch the shortcut. Enjoy!
+
+# Credits:
+By [SAUCE COMPANY](https://m.blog.naver.com/sauce2011), 떠돌이곰
+
+
+[인코스튜디오](https://m.blog.naver.com/gjppjh09/222416011602) (Streaming links)
