@@ -16,9 +16,9 @@ Looking for a version for iOS? Press [here](https://github.com/Dr-Sauce/WavvePlu
 4. Launch the shortcut. Enjoy!
 
 # Credits:
-Wavve++ for Mac: [떠돌이곰](https://opensea.kr), 
+[떠돌이곰](https://opensea.kr) (Wavve++ for Mac)
 
-Wavve++: [SAUCE COMPANY](https://m.blog.naver.com/sauce2011)
+[SAUCE COMPANY](https://m.blog.naver.com/sauce2011) (Wavve++)
 
-
+# Source:
 [인코스튜디오](https://m.blog.naver.com/gjppjh09/222416011602) (Streaming links)
