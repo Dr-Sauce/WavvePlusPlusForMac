@@ -1,7 +1,7 @@
 # Wavve++ for Mac
 A shortcut that allows you to watch live TV, specifically made for Mac
 
-(Special thanks to 떠돌이곰)
+(Special thanks to 떠돌이곰..!!)
 
 # How to install
 
