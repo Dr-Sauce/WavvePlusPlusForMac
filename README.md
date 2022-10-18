@@ -9,7 +9,7 @@ Looking for a version for iOS? Press [here](https://github.com/Dr-Sauce/WavvePlu
 
 ![E30B7D90-BD54-43A6-BDE5-37A0B4911583](https://user-images.githubusercontent.com/82555878/196376569-038d00a4-aa2a-4c63-9b71-afdd6e5e1dfd.png)
 
-2. Get the latest version of Wavve++ from [releases](https://github.com/Dr-Sauce/WavvePlusForMac/releases/tag/Releases).
+2. Get the latest version of Wavve++ for Mac from [releases](https://github.com/Dr-Sauce/WavvePlusForMac/releases/tag/Releases).
 
 3. Add the shortcut to your Mac.
 
