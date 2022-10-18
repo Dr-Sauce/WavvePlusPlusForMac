@@ -18,7 +18,8 @@ Looking for a version for iOS? Press [here](https://github.com/Dr-Sauce/WavvePlu
 # Credits:
 By [SAUCE COMPANY](https://m.blog.naver.com/sauce2011)
 
-Mac version by [떠돌이곰](https://opensea.kr)
+Wavve++ for Mac by [떠돌이곰](https://opensea.kr)
+
 
 
 [인코스튜디오](https://m.blog.naver.com/gjppjh09/222416011602) (Streaming links)
