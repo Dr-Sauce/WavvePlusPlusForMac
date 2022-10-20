@@ -1,7 +1,5 @@
 # Wavve++ for Mac
-A shortcut that allows you to watch Korean live TV. Specifically made for Mac. 
-
-Special thanks to 떠돌이곰....!!
+A shortcut that allows you to watch Korean live TV. Specifically made for Mac. (Special thanks to 떠돌이곰....!!)
 
 **Notice:** Some channels may not be available in your region.
 
