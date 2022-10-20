@@ -18,7 +18,7 @@ Special thanks to 떠돌이....!!
 4. Launch the shortcut. Enjoy!
 
 # Credits:
-[떠돌이곰](https://opensea.kr) (Wavve++ for Mac)
+[떠돌이](https://opensea.kr) (Wavve++ for Mac)
 
 [SAUCE COMPANY](https://m.blog.naver.com/sauce2011) (Wavve++)
 
