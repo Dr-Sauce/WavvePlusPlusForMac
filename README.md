@@ -5,7 +5,7 @@ Looking for a version for iOS? Press [here](https://github.com/Dr-Sauce/WavvePlu
 
 Special thanks to 떠돌이....!!
 
-# How to install
+# How to install:
 
 1. Download and install [IINA](https://iina.io).
 
