@@ -24,4 +24,4 @@ Special thanks to [떠돌이](https://opensea.kr/)....!!
 [SAUCE COMPANY](https://m.blog.naver.com/sauce2011) (Wavve++)
 
 # Source:
-[인코스튜디오](https://m.blog.naver.com/gjppjh09/222416011602) (Streaming links)
+[방송PD](https://m.blog.naver.com/gjppjh09/222416011602) (Streaming links)
