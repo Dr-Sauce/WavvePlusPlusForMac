@@ -19,9 +19,9 @@ Special thanks to [떠돌이](https://opensea.kr/)....!!
 4. Launch the shortcut. Enjoy!
 
 # Credits:
-[떠돌이](https://opensea.kr) (Wavve++ for Mac)
-
 [Dr. Sauce](https://m.blog.naver.com/sauce2011) ([Wavve++](https://github.com/Dr-Sauce/WavvePlusPlus))
+
+[떠돌이](https://opensea.kr) (Wavve++ for Mac)
 
 # Source:
 [방송PD](https://m.blog.naver.com/gjppjh09) ([Streaming links](https://m.blog.naver.com/gjppjh09/222416011602))
