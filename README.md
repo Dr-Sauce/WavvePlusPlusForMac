@@ -18,7 +18,7 @@ A shortcut that lets you watch Korean live TV. Specifically made for Mac. (**Not
 
 # Credits:
 
-[떠돌이](https://opensea.kr) (Wavve++ for Mac)
+[떠돌이](https://opensea.kr)
 
 # Source:
 
