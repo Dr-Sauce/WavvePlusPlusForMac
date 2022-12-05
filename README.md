@@ -18,7 +18,7 @@ A shortcut that lets you watch Korean live TV. Specifically made for Mac. (**Not
 
 # Credits:
 
-[떠돌이](https://opensea.kr)
+떠돌이 ([Open Sea](https://opensea.kr))
 
 Dr. Sauce ([SAUCE COMPANY](https://m.blog.naver.com/saucecompany_))
 
