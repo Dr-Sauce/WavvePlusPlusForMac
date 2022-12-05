@@ -20,6 +20,8 @@ A shortcut that lets you watch Korean live TV. Specifically made for Mac. (**Not
 
 [떠돌이](https://opensea.kr)
 
+Dr. Sauce [SAUCE COMPANY](https://m.blog.naver.com/sauce2011))
+
 # Source:
 
 [Wavve++](https://github.com/Dr-Sauce/WavvePlusPlus) ([Dr. Sauce](https://m.blog.naver.com/sauce2011))
