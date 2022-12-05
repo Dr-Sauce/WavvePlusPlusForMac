@@ -20,7 +20,7 @@ A shortcut that lets you watch Korean live TV. Specifically made for Mac. (**Not
 
 [떠돌이](https://opensea.kr)
 
-Dr. Sauce [SAUCE COMPANY](https://m.blog.naver.com/sauce2011))
+Dr. Sauce ([SAUCE COMPANY](https://m.blog.naver.com/saucecompany_))
 
 # Source:
 
