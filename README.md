@@ -17,9 +17,11 @@ A shortcut that lets you watch Korean live TV. Specifically made for Mac. (**Not
 4. Launch the shortcut. Enjoy!
 
 # Credits:
-[Dr. Sauce](https://m.blog.naver.com/sauce2011) ([Wavve++](https://github.com/Dr-Sauce/WavvePlusPlus))
 
 [떠돌이](https://opensea.kr) (Wavve++ for Mac)
 
 # Source:
-[방송PD](https://m.blog.naver.com/gjppjh09) ([Streaming links](https://m.blog.naver.com/gjppjh09/222416011602))
+
+[Wavve++](https://github.com/Dr-Sauce/WavvePlusPlus) ([Dr. Sauce](https://m.blog.naver.com/sauce2011))
+
+[방송국 스트리밍 주소안내](https://m.blog.naver.com/gjppjh09/222416011602) ([방송PD](https://m.blog.naver.com/gjppjh09))
